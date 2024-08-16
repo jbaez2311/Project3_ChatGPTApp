@@ -2,7 +2,7 @@
 
 This project is a customer service agent interface using ChatGPT. The user interface allows users to select predefined questions or ask their own. The interface also includes a feature to clear all previous chat messages.
 
-![User Interface](./Screenshot_2024-08-16.png)
+![User Interface](./Screenshot 2024-08-16 at 11.37.33 AM.png)
 
 ## Table of Contents
 
@@ -160,7 +160,7 @@ The user interface is designed to be responsive and user-friendly, ensuring a sm
 
 ## Screenshots
 
-![User Interface](./UI.png)
+![User Interface](./Screenshot 2024-08-16 at 11.37.33 AM.png)
 
 ---
 
