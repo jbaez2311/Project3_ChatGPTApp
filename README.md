@@ -1,6 +1,6 @@
 # ChatGPT Conversation Agent
 
-This project is a customer service agent interface using ChatGPT. The user interface allows users to select predefined questions or ask their own. The interface also includes a feature to clear all previous chat messages.
+This project is a conversation agent interface using ChatGPT. The user interface allows users to select predefined questions or ask their own. The interface also includes a feature to clear all previous chat messages.
 
 ## Table of Contents
 
