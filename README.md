@@ -125,18 +125,18 @@ Before you begin, ensure you have the following installed on your machine:
 Here's a brief overview of the project's structure:
 
 chatgpt-customer-service-agent/
-├── app.py                    # Flask backend
-├── .env                      # Environment variables
-├── venv/                     # Python virtual environment
-├── my-app/                   # React front-end application
+├── app.py                    # Flask backend/
+├── .env                      # Environment variables/
+├── venv/                     # Python virtual environment/
+├── my-app/                   # React front-end application/
 │   ├── public/
 │   ├── src/
-│   │   ├── App.tsx           # Main React component
-│   │   ├── App.css           # Styling for the React component
-│   ├── package.json          # Node.js dependencies
-│   ├── tsconfig.json         # TypeScript configuration
-├── README.md                 # Project documentation
-├── Screenshot_2024-08-16.png # User Interface screenshot
+│   │   ├── App.tsx           # Main React component/
+│   │   ├── App.css           # Styling for the React component/
+│   ├── package.json          # Node.js dependencies/
+│   ├── tsconfig.json         # TypeScript configuration/
+├── README.md                 # Project documentation/
+├── Screenshot_2024-08-16.png # User Interface screenshot/
 
 
 ## User Interface
