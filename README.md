@@ -129,8 +129,8 @@ chatgpt-customer-service-agent\
 ├── .env                      # Environment variables\
 ├── venv/                     # Python virtual environment\
 ├── my-app/                   # React front-end application\
-│   ├── public
-│   ├── src
+│   ├── public\
+│   ├── src\
 │   │   ├── App.tsx           # Main React component\
 │   │   ├── App.css           # Styling for the React component\
 │   ├── package.json          # Node.js dependencies\
