@@ -39,9 +39,6 @@ Before you begin, ensure you have the following installed on your machine:
   - Open VS Code and go to the Extensions Marketplace (left sidebar).
   - Install the following extensions:
     - **Python** (by Microsoft): Adds support for Python development.
-    - **ESLint** (by Microsoft): For linting JavaScript/TypeScript code.
-    - **Prettier - Code formatter** (by Prettier): For formatting your code.
-    - **Live Server** (by Ritwick Dey): To serve your static files locally (useful for quick testing).
 
 ### 2. Install Python
 
